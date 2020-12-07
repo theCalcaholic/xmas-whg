@@ -3,7 +3,7 @@
 {% block content %}
     <div id="main" role="main">
         <div class="container">
-            {% if "now"|date("U") >= meta.publish_date|date("U") or meta.show_always %}
+            {% if "now"|date("U") >= meta.publish_date|date("U") or meta.show_always or pages['meta'].meta.debug %}
                 {{ content }}
             {% else %}
                 Hier gibt es noch nichts zu sehen...

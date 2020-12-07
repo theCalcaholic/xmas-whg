@@ -8,7 +8,7 @@
 <ul class="doors-container">
 {% for page in pages("doors")|sort_by(["meta", "publish_date"]) %}
 <li class="door">
-{% if "now"|date("U") >= page.meta.publish_date|date("U") or page.meta.show_always %}
+{% if "now"|date("U") >= page.meta.publish_date|date("U") or page.meta.show_always or pages['_meta'].meta.debug %}
 <a class="door-link" href="{{ page.url }}">{{ page.meta.day_nr }}</a>
 {% else %}
 <a class="door-link inactive" href="#">{{ page.meta.day_nr }}</a>
@@ -16,6 +16,12 @@
 </li>
 {% endfor %}
 </ul>
+
+<p>
+{% if pages['_meta'].meta.debug %}
+debug mode on
+{% endif %}
+</p>
 
 {% endblock %}
 
