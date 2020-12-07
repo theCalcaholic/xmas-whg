@@ -1,5 +1,5 @@
 ---
 Logo: %theme_url%/img/pico-white.svg
-debug: true
+debug: false
 Tagline: ""
 ---
