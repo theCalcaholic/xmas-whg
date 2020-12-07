@@ -13,6 +13,17 @@ show_always: false
 
 **Ein großer Tag für Schuster Martin** 
 
+<p class="content-centered">
+<audio controls class="width-pct-90">
+  <source src="%assets_url%/other/23/Schuster-Martin.mp3" type="audio/mpeg">
+<a href="%assets_url%/other/23/Schuster-Martin.mp3">Anhören</a>
+</audio> 
+</p>
+
+---
+
+![Cover](%assets_url%/pics/23/Bernadette-Leo-Tolstoi+Schuster-Martin-Kleine-Ausgabe.jpg){.image .float-right}
+
 Es war einmal ein armer Schuster, der hieß Martin und lebte in einem kleinen Dorf in Russland. Durch das kleine Fenster seiner Werkstatt konnte er die Menschen sehen, die draußen auf der Straße vorüber gingen. Zwar sah er nur ihre Füße, doch erkannte er jeden an seinen Schuhen. Denn fast alle Schuhe hatte er gemacht oder repariert. Die Leute kamen deshalb gern zu Martin, denn er machte seine Arbeit gut und verlangte nicht zu viel Geld dafür. Als der Heilige Abend kam und es draußen dunkel wurde, zündete Martin die Öllampe an und las in seinem Lieblingsbuch. Es war die Bibel mit den vielen Geschichten von Jesus. Dann setzte er sich in seine Schaukelstuhl und las besonders gerne die Weihnachtsgeschichte. – 
 
 Plötzlich hörte Vater Martin, wie jemand seinen Namen rief. *„Martin“*, klang es plötzlich ganz leise in seinem Ohr. Er blickte sich um. Aber niemand war da in seiner Werkstatt. Doch gleich darauf hörte er die Stimme wieder: *„Martin! Schau morgen hinaus auf die Straße! Ich will zu dir kommen.“* 
@@ -24,7 +35,9 @@ Als Stephan gegangen war, schaute Martin bei der Arbeit wieder aus dem Fenster. 
 
 Kaum war die Mutter mit dem Kind gegangen, da hörte Martin ein Geschrei vor seinem Fenster. Eine Marktfrau schlug auf einen kleinen Jungen ein, der einen Apfel aus ihrem Korb gestohlen hatte. *„Warte nur, du Dieb! Ich bring dich zur Polizei“*, schrie sie zornig und zerrte den Jungen an den Haaren. Sofort rannte Martin auf die Straße hinaus. *„Lass ihn doch laufen“,* sagte er zu der Frau. *„Er wird es bestimmt nicht wieder tun. Den Apfel will ich dir bezahlen.“* Da beruhigte sich die Frau, und der Junge musste sich bei ihr entschuldigen, weil er den Apfel gestohlen hatte. *„Schon gut“,* sagte die Marktfrau und ging weiter. Der Junge aber half ihr freiwillig, den schweren Apfelkorb zu tragen. 
 
-Am Abend las Martin wieder in seinem Lieblingsbuch in der Bibel. Da hörte er die Stimme an seinem Ohr: *„Martin, Ich bin bei dir gewesen. Hast du mich erkannt?“ – „Wann? Wo?“* fragte Martin erstaunt. „Schau dich einmal um“, sagte die Stimme. Da sah Martin plötzlich den alten Stephan im Licht der Lampe stehen und daneben die junge Mutter mit ihrem Kind. Auch den Jungen mit dem Apfel sah er und die Marktfrau mit dem Korb am Arm. „Erkennst du mich jetzt?“ flüsterte die Stimme. Dann waren alle auf einmal verschwunden. Da freute sich Martin. Er schlug wieder seine Bibel auf und las, was Jesus gesagt hatte:[*„Alles, was ihr für einen meiner geringsten Brüder getan habt, das habt ihr für mich getan.“*](https://www.bibleserver.com/HFA/Matth%C3%A4us25%2C40) (Matthäus 25, 40) 
+Am Abend las Martin wieder in seinem Lieblingsbuch in der Bibel. Da hörte er die Stimme an seinem Ohr: *„Martin, Ich bin bei dir gewesen. Hast du mich erkannt?“ – „Wann? Wo?“* fragte Martin erstaunt. „Schau dich einmal um“, sagte die Stimme. Da sah Martin plötzlich den alten Stephan im Licht der Lampe stehen und daneben die junge Mutter mit ihrem Kind. Auch den Jungen mit dem Apfel sah er und die Marktfrau mit dem Korb am Arm. „Erkennst du mich jetzt?“ flüsterte die Stimme. Dann waren alle auf einmal verschwunden. Da freute sich Martin. Er schlug wieder seine Bibel auf und las, was Jesus gesagt hatte:[*„Alles, was ihr für einen meiner geringsten Brüder getan habt, das habt ihr für mich getan.“*](https://www.bibleserver.com/HFA/Matth%C3%A4us25%2C40) **(Matthäus 25, 40)**
 
 (Nach einer Erzählung von Leo Tolstoi)
+
 Quelle: [http://www.baptisten-schmiedeberg.de]( http://www.baptisten-schmiedeberg.de/?page_id=6961) 
+

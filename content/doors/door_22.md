@@ -15,6 +15,11 @@ show_always: false
 
 Eine einfache Möglichkeit in die Eigenproduktion zu gehen - und so auch geeignet zum Verschenken:
 
+![Hustenbonbon](%assets_url%/pics/22/hustenbonbons-xylit-thymian-salbei-1-fb.jpg)
+
 mit nur drei Zutaten:
 
-[https://www.smarticular.net/halsbonbons-und-zahnpflege-zugleich-selbst-gemacht-wenigen-schritten/](https://www.smarticular.net/halsbonbons-und-zahnpflege-zugleich-selbst-gemacht-wenigen-schritten/)
+![Zutaten](%assets_url%/pics/22/hustenbonbons-xylit-thymian-salbei-2.jpg)
+
+<a target="_blank" href="https://www.smarticular.net/halsbonbons-und-zahnpflege-zugleich-selbst-gemacht-wenigen-schritten/">https://www.smarticular.net/halsbonbons-und-zahnpflege-zugleich-selbst-gemacht-wenigen-schritten/</a>
+

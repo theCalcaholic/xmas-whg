@@ -10,3 +10,6 @@ show_always: false
 
 
 #21. Dezember
+
+![Fülle](%assets_url%/pics/21/fülle.jpg)
+

@@ -13,40 +13,27 @@ show_always: false
 
 **Dezember-Psalm** von Hanns Dieter-Hüsch
 
-Mit fester Freude
+![Weihnachtsmarkt](%assets_url%/pics/18/Bildschirmfoto_2020-11-22_23-57-35.png){.image .float-right .width-em-15}
 
-Lauf ich durch die Gegend
-
-Mal durch die Stadt
-
-Mal meinen Fluss entlang
-
+Mit fester Freude<br/>
+Lauf ich durch die Gegend<br/>
+Mal durch die Stadt<br/>
+Mal meinen Fluss entlang<br/>
 Jesus kommt
 
-Der Freund der Kinder und der Tiere
-
-Ich gehe völlig anders
-
-Ich grüße freundlich
-
-Möchte alle Welt berühren
-
-Mach dich fein
-
+Der Freund der Kinder und der Tiere<br/>
+Ich gehe völlig anders<br/>
+Ich grüße freundlich<br/>
+Möchte alle Welt berühren<br/>
+Mach dich fein<br/>
 Jesus kommt
 
-Schmück dein Gesicht
-
-Schmück dein Haus und deinen Garten
-
-Mein Herz schlägt ungemein
-
-Macht Sprünge
-
-Mein Auge lacht und färbt sich voll
-
-Mein Glück
-
+Schmück dein Gesicht<br/>
+Schmück dein Haus und deinen Garten<br/>
+Mein Herz schlägt ungemein<br/>
+Macht Sprünge<br/>
+Mein Auge lacht und färbt sich voll<br/>
+Mein Glück<br/>
 Jesus kommt
 
 Alles wird gut

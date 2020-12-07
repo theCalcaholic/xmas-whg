@@ -20,7 +20,9 @@ Hier zwei Vorschläge, die das vermeiden können…
 
 **Faltschachteln aus Altpapier:**
 
-[https://www.smarticular.net/geschenkboxen-aus-papier-falten/](https://www.smarticular.net/geschenkboxen-aus-papier-falten/)
+![Faltschachteln](%assets_url%/pics/20/fb-faltschachteln-aus-prospekten-basteln-1.jpg)
+
+<a target="_blank" href="https://www.smarticular.net/geschenkboxen-aus-papier-falten/">https://www.smarticular.net/geschenkboxen-aus-papier-falten/</a>
 
 
 und für Leute, die mit der Nähmaschine eine gerade Naht nähen können:
@@ -29,4 +31,7 @@ und für Leute, die mit der Nähmaschine eine gerade Naht nähen können:
 
 **Geschenkbeutel aus ausgemusterten Kleidungsstücken:**
 
-[https://www.smarticular.net/geschenk-beutel-aus-alten-hosen-naehen/](https://www.smarticular.net/geschenk-beutel-aus-alten-hosen-naehen/) 
+![Geschenkbeutel](%assets_url%/pics/20/fb-geschenkbeutel-aus-hosenbein-1-1.jpg)
+
+<a target="_blank" href="https://www.smarticular.net/geschenk-beutel-aus-alten-hosen-naehen/">https://www.smarticular.net/geschenk-beutel-aus-alten-hosen-naehen/</a>
+

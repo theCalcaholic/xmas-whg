@@ -12,7 +12,7 @@ show_always: false
 
 **Das Adventsgesicht**
 
-„Bitte warte hier!“ sagte ich zu dem Blinden und ließ ihn an einer verkehrsgeschützten Ecke des Großstadtbahnhofs allein. – Ich wollte ihm das Gewühl ersparen auf dem Weg zum Schalter, zur Auskunft, zur Fahrplantafel und zum Briefkasten, in den ich noch etwas einschmeißen wollte.
+**„Bitte warte hier!“** sagte ich zu dem Blinden und ließ ihn an einer verkehrsgeschützten Ecke des Großstadtbahnhofs allein. – Ich wollte ihm das Gewühl ersparen auf dem Weg zum Schalter, zur Auskunft, zur Fahrplantafel und zum Briefkasten, in den ich noch etwas einschmeißen wollte.
 
 ![Illustration](%assets_url%/pics/09/illustration.png){.float-right .margin-0-5 .max-width-em-15}
 

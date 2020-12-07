@@ -13,4 +13,9 @@ show_always: false
 
 **Das Weihnachtskarussell**
 
+![Weihnachtskarussell](%assets_url%/pics/16/weihnachtskarusell.jpg)
+
+<p class="content-centered">
 Warum wohl?
+</p>
+

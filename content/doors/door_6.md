@@ -18,7 +18,7 @@ show_always: false
 Zwei Nikolaus-Legenden für die Jüngeren:
 
 <div class="flex-row">
-<div markdown="1" class="width-pct-45 min-width-em-20">
+<div markdown="1" class="width-pct-45 min-width-em-20 content-centered">
 ![Die drei armen Töchter](%assets_url%/pics/06/01.png)
 
 Die drei armen Töchter
@@ -29,7 +29,7 @@ Die drei armen Töchter
 </audio> 
 </div>
 
-<div markdown="1" class="width-pct-45 min-width-em-20">
+<div markdown="1" class="width-pct-45 min-width-em-20 content-centered">
 ![Das Kornwunder](%assets_url%/pics/06/02.png)
 
 Das Kornwunder
@@ -57,7 +57,7 @@ Historisches über Nikolaus von Myra, Deutschlandfunk 2009, für die Älteren
 </div>
 <div markdown='1' class="width-pct-45 min-width-em-20">
 
-![Nikolaus von Myra](%assets_url%/pics/06/nikolaus.png)
+<p class="desktop-only"><img src="%assets_url%/pics/06/nikolaus.png"></img></p>
 
 <a target="_blank" href="https://www.youtube.com/watch?v=v86K5_Avvjo">
 ⤷Nikolaus von Myra, Teil 2

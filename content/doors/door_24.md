@@ -11,6 +11,7 @@ show_always: false
 
 #24. Dezember
 
-
+![JA](%assets_url%/pics/24/heruntergekommener-grün.jpg)
 
 nach: Uwe Küstner
+
