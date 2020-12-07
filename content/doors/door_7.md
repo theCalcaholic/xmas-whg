@@ -22,11 +22,11 @@ Wenn ihr den Christbaumschmuck mal ein bisschen ergänzen wollt, dann könnt ihr
 
 Wie man auf dem Bild sieht, nicht nur an Weihnachten einsetzbar…   ;-)
 
-[https://www.smarticular.net/filzkugeln-selber-machen-filzen-wollreste-upcycling-anleitung/](https://www.smarticular.net/filzkugeln-selber-machen-filzen-wollreste-upcycling-anleitung/)
+<a target="_blank" href="https://www.smarticular.net/filzkugeln-selber-machen-filzen-wollreste-upcycling-anleitung/">www.smarticular.net/filzkugeln-selber-machen-filzen-wollreste-upcycling-anleitung/</a>
 
 
 **Weihnachtsbaumschmuck aus Altpapier:**
 
 ![Filzkugeln](%assets_url%/pics/07/fb-origami-chritbaumschmuck-falten-1-1.jpg)
 
-[https://www.smarticular.net/origami-weihnachts-dekoration-selber-machen/](https://www.smarticular.net/origami-weihnachts-dekoration-selber-machen/)
+<a target="_blank" href="https://www.smarticular.net/origami-weihnachts-dekoration-selber-machen/">www.smarticular.net/origami-weihnachts-dekoration-selber-machen/</a>
