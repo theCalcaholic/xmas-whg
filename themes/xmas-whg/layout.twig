@@ -17,6 +17,12 @@
     {% endif %}
 
     <link rel="stylesheet" href="{{ assets_url }}/css/style.css" type="text/css" />
+<style>
+{% block styles %}
+
+{% endblock %}
+</style>
+
 </head>
 <body{% if config.theme_config.widescreen %} class="widescreen"{% endif %}>
 

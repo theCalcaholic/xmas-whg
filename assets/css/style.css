@@ -43,7 +43,10 @@
 
 html, body { height: 100%; }
 
-body { display: flex; flex-direction: column; }
+
+body { display: flex; flex-direction: column; 
+  background-color: white ;
+}
 #main { flex: 1 0 auto; }
 #header, #footer { flex: 0 0 auto; }
 
@@ -587,7 +590,7 @@ a.door-link.inactive {
 }
 
 .content-container {
-    background-image: url(../pics/common/christmas-tree-clip-art_f.jpg);
+/*    background-image: url(../pics/common/christmas-tree-clip-art_f.jpg); */
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
