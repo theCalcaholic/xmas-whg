@@ -6,7 +6,7 @@
 {% block content %}
 
 <ul class="doors-container">
-{% for page in pages("doors")|sort_by(["meta", "publish_date"]) %}
+{% for page in pages("doors")|sort_by(["meta", "order"]) %}
 <li class="door">
 {% if "now"|date("U") >= page.meta.publish_date|date("U") or page.meta.show_always or pages['_meta'].meta.debug %}
 <a class="door-link" href="{{ page.url }}">{{ page.meta.day_nr }}</a>
@@ -27,7 +27,6 @@ debug mode on
 
 {% block styles %}
 content-container {
-    background-image: url(../pics/common/christmas-tree-clip-art_f.j
-pg);
+    background-image: url({{ assets_url }}/pics/common/christmas-tree-clip-art_f.jpg);
 }
 {% endblock %}
