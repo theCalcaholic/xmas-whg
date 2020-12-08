@@ -14,9 +14,9 @@ show_always: false
 
 ### Advents-Kreuzworträtsel zum Ausdrucken
 
-<a href="%assets_url%/other/11/Dezember-11.pdf" markdown="1">
+<a href="%assets_url%/other/11/Dezember-11.pdf" download="kreuzwortraetsel.pdf" markdown="1">
 ![kreuzwortraetsel](%assets_url%/pics/11/kreuzwortraetsel_no_text.png)
 </a>
 
-<a href="%assets_url%/other/11/Dezember-11.pdf">Download</a>
+<a href="%assets_url%/other/11/Dezember-11.pdf" download="kreuzwortraetsel.pdf">Download</a>
 

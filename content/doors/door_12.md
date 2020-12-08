@@ -36,4 +36,4 @@ show_always: false
 - Mit nassen Händen kleine Kugeln formen und für ca. 1 Stunde in den Kühlschrank stellen.
 - Die Schokolade in Stücke brechen und mit dem Kokosfett über dem Wasserbad erhitzen bis sie flüssig ist. Die Kugeln mit einer (Pralinen)gabel darin wenden und auf einem Abtropfgitter trocknen lassen. Bevor die Kugeln durchgetrocknet sind, diese mit etwas Meersalz bestreuen.
 
-Quelle: [https://www.einfachmalene.de/spekulatius-kugeln-mit-erdnussbutter/](https://www.einfachmalene.de/spekulatius-kugeln-mit-erdnussbutter/) 
+Quelle: <a target="_blank" href="https://www.einfachmalene.de/spekulatius-kugeln-mit-erdnussbutter/">https://www.einfachmalene.de/spekulatius-kugeln-mit-erdnussbutter/</a>

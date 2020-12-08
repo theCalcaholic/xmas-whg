@@ -100,7 +100,7 @@ Der **Stern** erinnert an den Weihnachtsstern über dem Stall von Bethlehem, der
 <hr></hr>
 
 <div class="kranz-text" markdown='1'>
-**Und woher kommt der Brauch mit dem Adventskranz?** [Johann Hinrich Wichern](https://shmh.de/de/hamburgwissen/journal/adventskranz) hat ihn in Hamburg 1839 in einem Heim für Jugendliche gestaltet: Wichern hat am 1. Advent eine dicke weiße Kerze auf einen Holzreifen in den Saal gesteckt. Dann 6 kleine rote für jeden Tag bis zum 2. Advent. Dann wieder eine weiße, etc. Am Heiligen Abend brannten dann 24 Kerzen und es wurde jeden Tag ein bisschen heller.
+**Und woher kommt der Brauch mit dem Adventskranz?** <a target="_blank" href="https://shmh.de/de/hamburgwissen/journal/adventskranz">Johann Hinrich Wichern</a> hat ihn in Hamburg 1839 in einem Heim für Jugendliche gestaltet: Wichern hat am 1. Advent eine dicke weiße Kerze auf einen Holzreifen in den Saal gesteckt. Dann 6 kleine rote für jeden Tag bis zum 2. Advent. Dann wieder eine weiße, etc. Am Heiligen Abend brannten dann 24 Kerzen und es wurde jeden Tag ein bisschen heller.
 </div>
 <div class="kranz-image">
     <img src="%assets_url%/pics/03/09.png"></img>

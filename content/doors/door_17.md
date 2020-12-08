@@ -37,5 +37,5 @@ Das Wasser mit Tee und Gewürzen zum Kochen bringen und 10 min köcheln lassen. 
 
 Dosierung: 2-4 Tl Sirup in einen Becher heiße Milch (nach Belieben aufgeschäumt) geben.
 
-Quelle: [https://www.hefe-und-mehr.de/2013/12/chai-sirup/](/https://www.hefe-und-mehr.de/2013/12/chai-sirup/) 
+Quelle: <a target="_blank" href="https://www.hefe-und-mehr.de/2013/12/chai-sirup/">/https://www.hefe-und-mehr.de/2013/12/chai-sirup/</a>
 
