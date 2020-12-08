@@ -1,6 +1,7 @@
 ---
 day_nr: 19
 Title: Tür  19
+order: 7
 publish_date: 2020-12-19
 Robots: noindex,nofollow
 Template: door

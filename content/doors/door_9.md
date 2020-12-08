@@ -1,6 +1,7 @@
 ---
 day_nr: 9
 Title: Tür  9
+order: 12
 publish_date: 2020-12-9
 Robots: noindex,nofollow
 Template: door

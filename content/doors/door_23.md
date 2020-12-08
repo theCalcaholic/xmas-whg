@@ -1,6 +1,7 @@
 ---
 day_nr: 23
 Title: Tür  23
+order: 8
 publish_date: 2020-12-23
 Robots: noindex,nofollow
 Template: door

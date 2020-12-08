@@ -1,6 +1,7 @@
 ---
 day_nr: 17
 Title: Tür  17
+order: 17
 publish_date: 2020-12-17
 Robots: noindex,nofollow
 Template: door

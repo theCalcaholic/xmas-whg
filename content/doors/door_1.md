@@ -1,6 +1,7 @@
 ---
 day_nr: 1
 Title: Tür  1
+order: 13
 publish_date: 2020-12-1
 Robots: noindex,nofollow
 Template: door

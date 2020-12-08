@@ -1,6 +1,7 @@
 ---
 day_nr: 14
 Title: Tür  14
+order: 2
 publish_date: 2020-12-14
 Robots: noindex,nofollow
 Template: door

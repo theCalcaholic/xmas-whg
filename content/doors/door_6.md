@@ -1,6 +1,7 @@
 ---
 day_nr: 6
 Title: Tür  6
+order: 24
 publish_date: 2020-12-6
 Robots: noindex,nofollow
 Template: door

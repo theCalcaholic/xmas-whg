@@ -1,6 +1,7 @@
 ---
 day_nr: 22
 Title: Tür  22
+order: 9
 publish_date: 2020-12-22
 Robots: noindex,nofollow
 Template: door

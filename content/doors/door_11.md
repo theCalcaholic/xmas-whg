@@ -1,6 +1,7 @@
 ---
 day_nr: 11
 Title: Tür  11
+order: 6
 publish_date: 2020-12-11
 Robots: noindex,nofollow
 Template: door

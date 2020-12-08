@@ -1,6 +1,7 @@
 ---
 day_nr: 4
 Title: Tür  4
+order: 18
 publish_date: 2020-12-4
 Robots: noindex,nofollow
 Template: door

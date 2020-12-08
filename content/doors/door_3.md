@@ -3,6 +3,7 @@ day_nr: 3
 
 Title: Tür 3
 Date: 2020-11-24
+order: 23
 publish_date: 2020-12-3
 Robots: noindex,nofollow
 Template: door

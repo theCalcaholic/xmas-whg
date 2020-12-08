@@ -1,6 +1,7 @@
 ---
 day_nr: 16
 Title: Tür  16
+order: 4
 publish_date: 2020-12-16
 Robots: noindex,nofollow
 Template: door

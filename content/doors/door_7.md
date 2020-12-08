@@ -1,6 +1,7 @@
 ---
 day_nr: 7
 Title: Tür  7
+order: 11
 publish_date: 2020-12-7
 Robots: noindex,nofollow
 Template: door
