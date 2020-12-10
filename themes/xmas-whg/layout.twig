@@ -87,7 +87,9 @@
     <script type="application/javascript">
       (() => {
         (document.querySelectorAll('a')).forEach(link => {
-          link.hostname !== location.hostname && link.setAttribute('target', '_blank');
+          if (link.hostname !== location.hostname && ! link.hasAttribute("download") ) 
+            link.setAttribute('target', '_blank');
+          
         })
       })();
     </script>
