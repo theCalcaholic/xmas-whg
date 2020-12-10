@@ -18,4 +18,4 @@ Auch Vögel haben Hunger! So kannst du – ohne Abfall zu produzieren – Meisen
 
 ![meisenknoedel](%assets_url%/pics/10/meisenknoedel.jpg)
 
-<a target="_blank" href="https://www.smarticular.net/vogelfutter-fuer-den-winter-selbermachen/">https://www.smarticular.net/vogelfutter-fuer-den-winter-selbermachen/</a>
+[⤷Zur Anleitung](https://www.smarticular.net/vogelfutter-fuer-den-winter-selbermachen/)

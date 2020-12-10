@@ -22,7 +22,7 @@ Deko basteln aus Dingen, die sowieso im Haushalt vorhanden sind? (Fast) keine Ko
 **Windlichter aus Dosen:**
 
 ![Windlichter](%assets_url%/pics/15/fb-romantisches-windlicht-fuer-drinnen-und-draussen-1.jpg)
-<a target="_blank" href="https://www.smarticular.net/dosenlicht-windlicht-konservendose-selber-machen-basteln-anleitung/">Bastelanleitung</a>
+[⤷Bastelanleitung](https://www.smarticular.net/dosenlicht-windlicht-konservendose-selber-machen-basteln-anleitung/)
 
 
 **Öllämpchen aus Schraubdeckelgläsern:**
@@ -37,5 +37,5 @@ Hier solltest du auf alle Fälle die Kommentare zu dieser Anleitung durchlesen!
 2. gekaufte Dochte funktionieren besser
 3. alle „Aromastoffe“ (Pflanzen, Blätter, Gewürze…) sollten getrocknet sein
 
-<a target="_blank" href="https://www.smarticular.net/duftende-pflanzenoel-kerzen-basteln-aus-schraubglaesern/">Bastelanleitung</a>
+[⤷Bastelanleitung](https://www.smarticular.net/duftende-pflanzenoel-kerzen-basteln-aus-schraubglaesern/)
 

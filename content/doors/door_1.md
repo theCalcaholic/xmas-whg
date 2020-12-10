@@ -22,7 +22,7 @@ Hier kannst du einen Adventskalender im Miniformat basteln, kostet fast nichts, 
 
 **Materialien:**
     - eine leere Streichholzschachtel (normale Größe: 5,3 cm p 3,5 cm x 1,5 cm)
-    - ausgedruckte Seiten (<a target="_blank" href="%assets_url%/other/01/adventskalender.pdf" download="adventskalender.pdf">PDF hier herunterladen</a>)
+    - ausgedruckte Seiten (<a href="%assets_url%/other/01/adventskalender.pdf" download="adventskalender.pdf">PDF hier herunterladen</a>)
     - Schere
     - Holzbuntstifte
     - Klebestift

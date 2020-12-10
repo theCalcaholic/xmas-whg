@@ -33,7 +33,7 @@ In der heutigen Stollenhochburg Sachsen gab es im Spätmittelalter nur Rübenöl
 
 Mit dem Entdeckungsfieber des 15. Jahrhunderts begann der Stollen, sich geschmacklich zu verändern. Die Bäcker experimentierten mit Gewürzen und Zutaten. „Der Handel mit neuen und schon bekannten Gewürzen florierte und katapultierte das europäische Kochen und Backen in ganz neue Dimensionen“, erklärt Michael Schulze. Der Stollen als ursprünglich abendländisches Gebäck sei erst mit den kulinarischen Einflüssen des Morgenlandes zu Ruhm und Ehren gekommen... 
 
-Quelle: <a target="_blank" href="https://www.g-geschichte.de/plus/geschichte-christstollen/">www.g-geschichte.de/plus/geschichte-christstollen/</a>
+Quelle: [https://www.g-geschichte.de/plus/geschichte-christstollen/](https://www.g-geschichte.de/plus/geschichte-christstollen/)
 
 ---
 
@@ -92,4 +92,4 @@ Bei 200°C etwa 40 min backen.
 
 Nach dem Backen den noch heißen Stollen mit geschmolzener Butter einpinseln und mit feinen Zucker bestreuen. Über Nacht auskühlen lassen, dann den Stollen dick mit Puderzucker bestäuben und ihn in Alufolie einwickeln. Vor dem Probieren muss der Stollen an einem kühlen Ort ein bis zwei Wochen gut durchziehen.
 
-Quelle: <a href="https://www.hefe-und-mehr.de/2009/12/christstollen/" target="_blank">www.hefe-und-mehr.de/2009/12/christstollen/</a>
+Quelle: [www.hefe-und-mehr.de/2009/12/christstollen/](https://www.hefe-und-mehr.de/2009/12/christstollen/)

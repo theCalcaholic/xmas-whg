@@ -52,16 +52,12 @@ Historisches über Nikolaus von Myra, Deutschlandfunk 2009, für die Älteren
 
 ![Nikolaus von Myra](%assets_url%/pics/06/nikolaus.png)
 
-<a target="_blank" href="https://www.youtube.com/watch?v=cwnVUyWKS9o" markdown='1'>
-⤷Nikolaus von Myra, Teil 1
-</a>
+[⤷Nikolaus von Myra, Teil 1](https://www.youtube.com/watch?v=cwnVUyWKS9o)
 </div>
 <div markdown='1' class="width-pct-45 min-width-em-20">
 
 <p class="desktop-only"><img src="%assets_url%/pics/06/nikolaus.png"></img></p>
 
-<a target="_blank" href="https://www.youtube.com/watch?v=v86K5_Avvjo">
-⤷Nikolaus von Myra, Teil 2
-</a>
+[⤷Nikolaus von Myra, Teil 2](https://www.youtube.com/watch?v=v86K5_Avvjo)
 </div>
 </div>

@@ -22,5 +22,5 @@ mit nur drei Zutaten:
 
 ![Zutaten](%assets_url%/pics/22/hustenbonbons-xylit-thymian-salbei-2.jpg)
 
-<a target="_blank" href="https://www.smarticular.net/halsbonbons-und-zahnpflege-zugleich-selbst-gemacht-wenigen-schritten/">https://www.smarticular.net/halsbonbons-und-zahnpflege-zugleich-selbst-gemacht-wenigen-schritten/</a>
+[⤷Zum Rezept](https://www.smarticular.net/halsbonbons-und-zahnpflege-zugleich-selbst-gemacht-wenigen-schritten/)
 
