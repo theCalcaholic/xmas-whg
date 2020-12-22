@@ -12,6 +12,12 @@ show_always: false
 
 #22. Dezember
 
+---
+
+[⤷Gottesdienst](https://moodle2.heisenberg-gymnasium-weinheim.de/moodle/course/view.php?id=313)
+
+---
+
 **Hustenbonbons selbst herstellen**
 
 Eine einfache Möglichkeit in die Eigenproduktion zu gehen - und so auch geeignet zum Verschenken:
